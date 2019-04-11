@@ -1,3 +1,4 @@
-Hello,
+#Hello,
+
 This is my engineering project.
-[cos tam cos] (Praca inżynierska - Nina U.pdf)
+You can find more information about it in the pdf file above :) 
